@@ -46,7 +46,7 @@ logger = logging.getLogger("transcription_tool")
 # Edit these settings to match your needs
 CONFIG = {
     # Directory to scan for video files (EDIT THIS)
-    'input_dir': '/Volumes/Database/EMC ',  # Note the space at the end
+    'input_dir': 'put your directory here  ',  # Note the space at the end
     
     # Directory to store temp audio files
     'audio_dir': './temp_audio',
